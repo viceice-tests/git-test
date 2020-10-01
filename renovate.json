@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
   "automergeType": "branch",
-  "semanticCommits": true,
+  "semanticCommits": "enabled",
   "git-submodules": {
     "enabled": true
   },
